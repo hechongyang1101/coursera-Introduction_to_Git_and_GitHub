@@ -1,2 +1,2 @@
 # coursera-Introduction_to_Git_and_GitHub
-week3 assignments
+I am editing the README file. Adding some more details about the project description.
